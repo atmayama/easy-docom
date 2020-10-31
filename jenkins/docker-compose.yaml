@@ -1,0 +1,6 @@
+version: "3.7"
+services: 
+    jenkins:
+        image: jenkinsci/blueocean
+        ports: 
+            - "8080:8080"
