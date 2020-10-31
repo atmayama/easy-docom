@@ -11,3 +11,5 @@ docker-compose down
 Links:
 - [docker-compose](https://docs.docker.com/compose/install/)
 - [jenkins](https://www.jenkins.io/) - [jenkins docker](https://hub.docker.com/r/jenkinsci/blueocean/)
+- [mysql](https://www.mysql.com/) - [mysql docker](https://hub.docker.com/_/mysql)
+- [mongo](https://www.mongodb.com/) - [mongo docker](https://hub.docker.com/_/mongo)
