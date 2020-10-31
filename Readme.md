@@ -13,3 +13,4 @@ Links:
 - [jenkins](https://www.jenkins.io/) - [jenkins docker](https://hub.docker.com/r/jenkinsci/blueocean/)
 - [mysql](https://www.mysql.com/) - [mysql docker](https://hub.docker.com/_/mysql)
 - [mongo](https://www.mongodb.com/) - [mongo docker](https://hub.docker.com/_/mongo)
+- [redis](https://redis.io/) - [redis docker](https://hub.docker.com/_/redis)
