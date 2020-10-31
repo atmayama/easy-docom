@@ -4,3 +4,5 @@ services:
         image: jenkinsci/blueocean
         ports: 
             - "8080:8080"
+        volumes: 
+            - ./password:/var/jenkins_home/secrets
